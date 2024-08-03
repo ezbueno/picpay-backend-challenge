@@ -23,5 +23,3 @@ Resolution of the challenge proposed in the PicPay repository. Check details [at
 * Spring Cloud Open Feign
 * ControllerAdvice & Problem Details
 * Hibernate Validator
-
-Developed by Ezandro Bueno

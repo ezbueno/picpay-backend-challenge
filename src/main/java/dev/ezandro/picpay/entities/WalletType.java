@@ -1,8 +1,6 @@
-package dev.ezandro.picpay.entity;
+package dev.ezandro.picpay.entities;
 
 import jakarta.persistence.*;
-
-import java.math.BigDecimal;
 
 @Entity
 @Table(name = "tb_wallet_type")

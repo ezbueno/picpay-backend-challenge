@@ -1,6 +1,6 @@
 package dev.ezandro.picpay.enums;
 
-import dev.ezandro.picpay.entity.WalletType;
+import dev.ezandro.picpay.entities.WalletType;
 
 public enum WalletTypeEnum {
     USER(1L, "user"),

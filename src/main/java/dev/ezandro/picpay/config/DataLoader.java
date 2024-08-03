@@ -1,7 +1,7 @@
 package dev.ezandro.picpay.config;
 
 import dev.ezandro.picpay.enums.WalletTypeEnum;
-import dev.ezandro.picpay.repository.WalletTypeRepository;
+import dev.ezandro.picpay.repositories.WalletTypeRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Configuration;
 

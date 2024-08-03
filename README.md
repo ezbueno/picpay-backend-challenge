@@ -12,7 +12,7 @@
   <img alt="Version: 1.0" src="https://img.shields.io/badge/version-1.0-yellowgreen">
 </p>
 
-Resolution of the challenge proposed in the PicPay repository. Check details [at this link](https://github.com/PicPay/picpay-desafio-backend/readme.md).
+Resolution of the challenge proposed in the PicPay repository. Check details [at this link](https://github.com/PicPay/picpay-desafio-backend).
 
 ## :rocket: Technologies Used
 

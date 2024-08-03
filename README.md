@@ -1,5 +1,5 @@
 <h2 align="center">
-  Backend of an Investment Aggregator
+  PicPay Backend Challenge
 </h2>
 
 <p align="center" width="100%">

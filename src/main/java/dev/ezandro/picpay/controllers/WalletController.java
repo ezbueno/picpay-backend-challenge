@@ -18,7 +18,7 @@ public class WalletController {
         this.walletService = walletService;
     }
 
-    @PostMapping(name = "/wallets")
+    @PostMapping(value = "/wallets")
     public ResponseEntity<Wallet> createWallet(@RequestBody CreateWalletDTO createWalletDTO) {
         var wallet = this.walletService.createWallet(createWalletDTO);
         return ResponseEntity.created(URI.create("/wallets/" + wallet.getId())).body(wallet);
